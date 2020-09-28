@@ -1,5 +1,5 @@
 # Tableau-Public
-This repository contains scripts used to create the VOTD colour analysis dashboard: https://public.tableau.com/profile/luisa6565#!/vizhome/VOTDColourAnalysis/Dashboard1.
+This repository contains scripts used to create the [VOTD colour analysis dashboard](https://public.tableau.com/profile/luisa6565#!/vizhome/VOTDColourAnalysis/Dashboard1).
 
 - **VOTD.ipynb** scrapes all VOTDs including title, date and thumbnail.
 
@@ -11,6 +11,6 @@ This repository contains scripts used to create the VOTD colour analysis dashboa
 
 Unsurprisingly, white colours have been used as most dominant colours for most visualisations which can be attributed to the background colour. It is followed by other neutral colours such as grey and black.
 
-A visualisation of the results can be found here: https://public.tableau.com/profile/luisa6565#!/vizhome/VOTDColourAnalysis/Dashboard1
+A visualisation of the results can be found [here](https://public.tableau.com/profile/luisa6565#!/vizhome/VOTDColourAnalysis/Dashboard1).
 
 ![image](https://user-images.githubusercontent.com/59416844/83361265-69d59300-a37f-11ea-82b8-07e2e22a9ecd.png)
